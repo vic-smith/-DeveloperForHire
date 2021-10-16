@@ -154,7 +154,7 @@ p {
   flex-wrap: wrap;
   justify-content: center;
   justify-content: space-around;
-  padding: 10px;
+  
   
 }
 
@@ -197,7 +197,7 @@ p {
   flex-direction: row;
   justify-content: space-between;
   flex-wrap: wrap;
-  margin: 10px 10px;
+  margin: auto;
 }
 
 .sample {
@@ -218,6 +218,9 @@ h3 {
   text-decoration: none;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
+}
+.language{
+    text-align: bottom;
 }
 .sample:hover,
 .tacolocator:hover {
